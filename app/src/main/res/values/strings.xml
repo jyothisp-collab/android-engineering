@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Native Showcase</string>
+    <string name="default_notification_channel_id">showcase_updates</string>
+</resources>
